@@ -39,18 +39,18 @@ EPISODES = 5000
 # Experimental results
 1. 1000 episodes
 ```
-Best Score: 20
-Average Score: 6.3
+Best Score: 40
+Average Score: 5.9
 ```
 2. 3000 episodes
 ```
-Best Score: 10
-Avg Score: 3.7
+Best Score: 8
+Average Score: 3.4
 ```  
 3. 5000 episodes
 ```
-Best Score: 13
-Average Score: 4.7
+Best Score: 7
+Average Score: 2.7
 ```
 # Demo of the model
 
