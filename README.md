@@ -1,4 +1,4 @@
-# RN_flappy_bird
+# Report Flappy Bird
 
 # Arhitecture and implementation details
 
