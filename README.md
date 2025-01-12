@@ -54,3 +54,8 @@ Average Score: 4.7
 ```
 # Highest score
 ![image](https://github.com/user-attachments/assets/251306b8-4649-42d9-8934-f261759362a8)
+
+# Demo of the model
+
+[Link către video](https://github.com/user-attachments/assets/ee9cc45e-221b-4eb0-9f92-56ce81577818)
+
