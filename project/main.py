@@ -59,8 +59,7 @@ def test():
     action_size = env.action_space.n
     agent = DQNAgent(state_size, action_size)
 
-    # Load the best checkpoint
-    load_checkpoint(agent, "flappy_bird_dqn.pth")
+    load_checkpoint(agent, "flappy_bird_dqn_5000.pth")
     agent.model.eval()
 
     state, _ = env.reset()

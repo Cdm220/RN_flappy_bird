@@ -11,7 +11,7 @@ class Config:
     EPSILON_DECAY = 0.9995
     TARGET_UPDATE_FREQ = 100
     MIN_MEMORY_SIZE = 1000
-    EPISODES = 1000
+    EPISODES = 3000
 
     DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
